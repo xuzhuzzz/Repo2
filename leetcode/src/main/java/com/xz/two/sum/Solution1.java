@@ -1,4 +1,4 @@
-package com.xz.twoSum;
+package com.xz.two.sum;
 
 import java.util.HashMap;
 import java.util.Map;
